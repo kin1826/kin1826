@@ -10,11 +10,13 @@ I have a strong interest in **Game Development**, **Web Fullstack Development**,
 I enjoy applying programming knowledge to real-world projects, especially those involving **AI integration** and system design.
 
 ### 💡 Skills & Experience
-- Advanced Java (TCP, Servlet, Socket)
+- Swing Java.
 - Object-Oriented Programming (OOP – Java)
 - Web Fullstack Development
 - AI-related projects (AI recommendation, scheduling)
 - Game projects & team project management
+
+<img width="800" height="auto" alt="cv" src="https://github.com/user-attachments/assets/636c5482-b7fe-45c5-b864-e14e9ea9c038" />
 
 <!--
 **kin1826/kin1826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +30,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="300" height="auto" alt="AI4LIFE" src="https://github.com/user-attachments/assets/c7aef1e4-ec9e-475c-af1f-ccd8c20c357d" />
+### Competition Certificate AI4LIFE - DaNang
+<img width="800" height="auto" alt="AI4LIFE" src="https://github.com/user-attachments/assets/c7aef1e4-ec9e-475c-af1f-ccd8c20c357d" />
