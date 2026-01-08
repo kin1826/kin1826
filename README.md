@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi 👋
+
+## 👋 About Me
+
+My name is **Trần Văn Bằng**, a second-year student at  
+**Vietnam–Korea University of Information and Communication Technology (VKU)**,  
+majoring in **Game Technology (Engineer Program)**.
+
+I have a strong interest in **Game Development**, **Web Fullstack Development**, and **Java OOP**.  
+I enjoy applying programming knowledge to real-world projects, especially those involving **AI integration** and system design.
+
+### 💡 Skills & Experience
+- Advanced Java (TCP, Servlet, Socket)
+- Object-Oriented Programming (OOP – Java)
+- Web Fullstack Development
+- AI-related projects (AI recommendation, scheduling)
+- Game projects & team project management
 
 <!--
 **kin1826/kin1826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="996" height="702" alt="AI4LIFE" src="https://github.com/user-attachments/assets/c7aef1e4-ec9e-475c-af1f-ccd8c20c357d" />
+<img width="300" height="auto" alt="AI4LIFE" src="https://github.com/user-attachments/assets/c7aef1e4-ec9e-475c-af1f-ccd8c20c357d" />
