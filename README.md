@@ -1,6 +1,6 @@
 ## Hi 👋
 
-## 👋 About Me
+## About Me
 
 My name is **Trần Văn Bằng**, a second-year student at  
 **Vietnam–Korea University of Information and Communication Technology (VKU)**,  
