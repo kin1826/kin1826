@@ -16,6 +16,13 @@ I enjoy applying programming knowledge to real-world projects, especially those 
 - AI-related projects (AI recommendation, scheduling)
 - Game projects & team project management
 
+- ### 💡 Skills & Experience
+- Swing Java.
+- Object-Oriented Programming (OOP – Java)
+- Web Fullstack Development
+- AI-related projects (AI recommendation, scheduling)
+- Game projects & team project management
+
 <img width="800" height="auto" alt="cv" src="https://github.com/user-attachments/assets/636c5482-b7fe-45c5-b864-e14e9ea9c038" />
 
 <!--
