@@ -24,7 +24,7 @@ I enjoy applying programming knowledge to real-world projects, especially those 
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats\
 
 <div align="center">
 
