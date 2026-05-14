@@ -44,7 +44,5 @@ I enjoy applying programming knowledge to real-world projects, especially those 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kin1826&theme=tokyo-night)](https://github.com/kin1826)
 
-
-
 ### Competition Certificate AI4LIFE - DaNang
 <img width="800" height="auto" alt="AI4LIFE" src="https://github.com/user-attachments/assets/c7aef1e4-ec9e-475c-af1f-ccd8c20c357d" />
