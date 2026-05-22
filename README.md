@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SCORPIO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Trần%20Văn%20Bằng&fontSize=55&fontColor=ff2222&animation=twinkling&fontAlignY=65&desc=♏%20Game%20Dev%20•%20Java%20OOP&descColor=cc0000&descAlignY=85&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Trần%20Văn%20Bằng&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=♏%20Game%20Dev%20•%20Java%20OOP&descColor=cc0000&descAlignY=85&descSize=16" />
 
 </div>
 
