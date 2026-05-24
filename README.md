@@ -7,7 +7,7 @@
 
 ---
 
-<!-- PROFILE SECTION: Image left + Info right -->
+<!- PROFILE SECTION: Image left + Info right -->
 <table>
 <tr>
 <td width="38%" valign="top">
@@ -70,7 +70,6 @@
 ```
 🎮  Game Dev & Tech Art
 ☕  Giảng dạy OOP - Java
-🌐  Web Fullstack Developer
 ```
 
 ---
