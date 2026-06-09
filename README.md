@@ -7,7 +7,6 @@
 
 ---
 
-<!- PROFILE SECTION: Image left + Info right -->
 <table>
 <tr>
 <td width="38%" valign="top">
