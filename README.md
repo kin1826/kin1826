@@ -90,6 +90,8 @@
 <div align="center">
 
 ![AI4LIFE](https://img.shields.io/badge/🥈%20AI4LIFE-Giải%20Khuyến%20Khích-CC0000?style=for-the-badge&labelColor=1a0000)
+![ROBOCAR](https://img.shields.io/badge/🥈%20BOBOCAR-Giải%20Khuyến%20Khích-1a0000?style=for-the-badge&labelColor=CC0000)
+![TEACHING ASSISTANT](https://img.shields.io/badge/%20TEACHING_ASSISTANT-At%20VKU%20-CC0000?style=for-the-badge&labelColor=1a0000)
 
 </div>
 
@@ -99,6 +101,13 @@
 > Giải Khuyến Khích tại cuộc thi AI4LIFE khu vực Đà Nẵng
 > 
 > Project: *Ứng dụng AI vào lập lịch trình du lịch*
+
+---
+
+**🤖 ROBOCAR 2026 - VKU** &nbsp;
+> Giải Khuyến Khích tại cuộc thi ROBOCAR 2026 - VKU
+> 
+> Project: *Ứng dụng AI detect đèn giao thông cho xe tự hành kết hợp dò line và giải mê cung*
 
 ---
 
@@ -173,11 +182,12 @@
 
 ---
 
-## 🏅 Chứng chỉ AI4LIFE — Đà Nẵng
+## 🏅 Competition
 
 <div align="center">
 
-<img width="750" height="auto" alt="AI4LIFE Certificate" src="https://github.com/user-attachments/assets/c7aef1e4-ec9e-475c-af1f-ccd8c20c357d" />
+<img width="450" height="320" alt="AI4LIFE Certificate" src="https://github.com/user-attachments/assets/c7aef1e4-ec9e-475c-af1f-ccd8c20c357d" />
+<img width="450" height="320" alt="ROBOCAR Compertion" src="https://github.com/user-attachments/assets/74bd6744-1fac-4f92-8b53-e22940c7b7bd" />
 
 </div>
 
